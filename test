@@ -208,8 +208,7 @@ Not Found, Error 404 !!
 
 ```````` "LIVE EVENT" ````````
  
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTp2kODvDm7WhKqE4e8mS8K_ARD5nB24QXw&s", 
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg", 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="#🟢LIVE EVENT🟢",LIGA 1 BRI (Indosiar)
 http://iptvtree.net:8080/e891d265/89d742c3/162138
@@ -305,7 +304,7 @@ https://raw.githubusercontent.com/call-centre/index/main/bundes3.m3u8
 
 
 ```````` # MOTO GP # ````````
-#EXTINF:-1 group-logo="https://harian.fajar.co.id/wp-content/uploads/2024/02/motogp-logo.jpg"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/motogp.jpg"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/703x0/webp/photo/2021/08/12/1522286431.jpg" group-title="# MOTO GP #", LIVE MOTO GP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -334,7 +333,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 ```````` # FORMULA 1 # ````````
-#EXTINF:-1 group-logo="https://hips.hearstapps.com/autoweek/assets/s3fs-public/_ONY3298.jpg"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/f1.jpg"
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://cdn-5.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="# FORMULA 1 #",  LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
