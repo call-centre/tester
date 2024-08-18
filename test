@@ -210,18 +210,18 @@ Not Found, Error 404 !!
  
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg", 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="#🟢LIVE EVENT🟢",LIGA 1 BRI (Indosiar)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# 🟢LIVE EVENT🟢",LIGA 1 BRI (Indosiar)
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="#🟢LIVE EVENT🟢",LIGA 1 BRI (SportStar4)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# 🟢LIVE EVENT🟢",LIGA 1 BRI (SportStar4)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="#🟢LIVE EVENT🟢",PRO LIGA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="# 🟢LIVE EVENT🟢",PRO LIGA
 http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
@@ -370,30 +370,27 @@ https://linear028-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 
 
 ```````` # BRI LIGA 1 # ````````
-#EXTINF:-1 group-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-all-sport.jpg"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/liga1bri.jpg"
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# BRI LIGA 1",LIVE 1 (Indosiar)
+http://iptvtree.net:8080/e891d265/89d742c3/162138
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12192.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-
-
-=========================================================
-
-##########################
-######### U F C ##########
-##########################
-=====================================================================
-```````` # U F C #````````
-#EXTINF:-1 group-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-all-sport.jpg"
-
-#EXTINF:-1 tvg-logo="https://logorevolution.id/wp-content/uploads/2021/09/ufc-ultimate-fighting-championship3349.jpg" group-title="# U F C #", UFC LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA 1 BRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HINyEUbqOvFWhgWRllam41Jw.png" group-title="# BRI LIGA 1",LIVE 2 (SportStar4)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-little-bread-fe1e.aimiemah.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-logo="https://logorevolution.id/wp-content/uploads/2021/09/ufc-ultimate-fighting-championship3349.jpg" group-title="# U F C #", UFC LIVE 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=2192_&extension=ts
 
+```````` # PRO LIGA # ````````
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/proliga.jpg"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="# PRO LIGA",LIVE 1 ( MOJI )
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
 
 
 ##########################
