@@ -332,7 +332,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-```````` # FORMULA 1 # ````````
+```````` # FORMULA 1  ````````
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/f1.jpg"
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://cdn-5.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="# FORMULA 1 ",  LIVE 1
